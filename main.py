@@ -6,8 +6,6 @@ import ssl
 import socket
 import OpenSSL
 import requests
-import json
-import time
 from datetime import datetime, timezone
 
 _home_path_ = f'{os.getcwd()}'
