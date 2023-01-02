@@ -1,0 +1,2 @@
+# ssl_certificate_expiration_checker_lite
+lite version of ssl_certificate_expiry_date_checker
