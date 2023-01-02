@@ -1,0 +1,12 @@
+www.google.com,443,@@dev1-team,password123456
+account.google.com,443,@@dev1-team,password123456
+www.github.com,443,@@dev1-team,password123456
+www.naver.com,443,@@dev2-team,password123456
+es.stackoverflow.com,443,@@dev2-team,password123456
+devnote_wrong.in,443,@@dev2-team,password123456
+not_exits_domain.in,443,@baal.act5,password123456
+accounts.kakao.com,443,@baal.act5,password123456
+www.youtube.com,443,@Mephisto.act3,password123456
+developer.mozilla.org,443,@Mephisto.act3,password123456
+#stackoverflow.com/status/404,443,@Mephisto.act3,password123456
+#google.com,443,@Mephisto.act3,password123456
