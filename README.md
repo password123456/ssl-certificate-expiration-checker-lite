@@ -9,6 +9,8 @@
 
 # Features
 - Lite version of ssl_certificate_expiry_date_checker [(Here)](https://github.com/password123456/ssl_certificate_expiry_date_checker)
+- Please let me know if any changes are required or if additional features are needed.
+- If you find this helpful, please consider giving it a **"star"**:star2: to support further improvements.
  
 # Documentation
 ```python
